@@ -40,7 +40,7 @@ For each set of parameters we've run 10000 requests and we measured:
   achieve with each configuration
 - **Individual Request Latency (mean)** - The mean latency over all 10,000 requests
 - **P99 Latency** - 99% of all requests (9.900 out of 10.000) have a latency that
-  is lower than or equal to this number – this shows how fast 
+  is lower than or equal to this number – this shows how fast the 99% of all requests are being processed
 - **Import time** - Since varying build parameters has an effect on import
   time, the import time is also included
 

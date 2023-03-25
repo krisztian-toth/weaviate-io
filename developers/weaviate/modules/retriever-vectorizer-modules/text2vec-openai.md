@@ -178,7 +178,7 @@ Because you will be getting embeddings based on your own API key, you will be de
 
 If you run into rate limits, you can also decide to throttle the import in your application.
 
-E.g., in Python and Java using the Weaviate client.
+E.g., in Python and Go using the Weaviate client.
 
 import CodeOpenAIExample from '/_includes/code/text2vec-openai.example.mdx';
 
